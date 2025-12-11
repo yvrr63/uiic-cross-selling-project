@@ -194,61 +194,66 @@ Pair-plot
 
 
 ## Key Insights
-1. Pairwise Patterns
+1. Pairwise Patterns\
 
-Younger, moderate-income customers show highest conversions
+    * Younger, moderate-income customers show highest conversions
 
-Older, high-income customers rarely convert
+    * Older, high-income customers rarely convert
 
-Customers with low current coverage + mid income buy new products more
+    * Customers with low current coverage + mid income buy new products more
 
 Business Insight:
-## Focus marketing on young-to-mid-age, mid-income groups with low-to-moderate coverage.
+### Focus marketing on young-to-mid-age, mid-income groups with low-to-moderate coverage.
 
 2. Income vs Age
 
-Ages 25–40 with ₹4L–₹10L income convert well
+    * Ages 25–40 with ₹4L–₹10L income convert well
 
-Older, wealthier customers need personalized advisory
+    * Older, wealthier customers need personalized advisory
 
 3. Family Size Patterns
 
-Customers with 3–5 dependents + low coverage show interest in upgrades
+    * Customers with 3–5 dependents + low coverage show interest in upgrades
 
-Smaller families with high coverage show low interest
+    * Smaller families with high coverage show low interest
 
 4. Rating-Based Behavior
 
-Hot & Warm customers convert more
+    * Hot & Warm customers convert more
 
-Cold customers need trust-building before cross-sell
+    
+    * Cold customers need trust-building before cross-sell
 
 ## Overall Business Recommendations
 
-Target young, mid-income customers for cross-selling
+1. Target young, mid-income customers for cross-selling
 
-Build family-focused bundle plans (life + health)
+2. Build family-focused bundle plans (life + health)
 
-Prioritize warm/hot-rated customers for premium policies
+3. Prioritize warm/hot-rated customers for premium policies
 
-Customize messaging based on education and occupation
+4. Customize messaging based on education and occupation
 
-Increase digital engagement for younger audiences (app notifications, SMS campaigns)
+5. Increase digital engagement for younger audiences (app notifications, SMS campaigns)
 
 ## How to Run This Project
 1️. Install required libraries
-pip install -r requirements.txt
+    * pip install -r requirements.txt
 
 2️. Open Jupyter Notebook
-jupyter notebook
+    * jupyter notebook
 
 3️. Run notebook
-notebooks/INS_Report.ipynb
+    * notebooks/INS_Report.ipynb
 
 ## Requirements
-pandas
-numpy
-matplotlib
-seaborn
-ydata-profiling
-jupyter
+. pandas
+
+. numpy
+
+
+. seaborn
+
+. ydata-profiling
+
+. jupyter
